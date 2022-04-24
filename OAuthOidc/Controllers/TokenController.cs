@@ -37,17 +37,5 @@ namespace OAuthOidc.Controllers
                 _ => await _invalidGrantHandler.HandleAsync(tokenRequest, origin)
             };
         }
-
-        /*[HttpGet]
-        public string X()
-        {
-            var secrets = _configurationDbContext.Clients.Where(p => p.ClientId == "test_credentials")
-                .SelectMany(p => p.ClientSecrets).FirstOrDefault();
-
-            secrets.Value = HashAlgorithm.Sha256.Hash(Encoding.UTF8.GetBytes("testhaslo"));
-            _configurationDbContext.SaveChanges();
-
-            return "";
-        }*/
     }
 }

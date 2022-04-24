@@ -1,0 +1,250 @@
+﻿++Solution 'OAuthOidc' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:OAuthOidc.sln
+++OAuthOidc
+i:{00000000-0000-0000-0000-000000000000}:OAuthOidc
+++Connected Services 
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:>621
+++Dependencies
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:>620
+++Properties
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\properties\
+++wwwroot
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\wwwroot\
+++css
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\wwwroot\css\
+++style.css
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\wwwroot\css\style.css
+++Controllers
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\controllers\
+++AuthorizationController.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\controllers\authorizationcontroller.cs
+++DiscoveryController.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\controllers\discoverycontroller.cs
+++TokenController.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\controllers\tokencontroller.cs
+++Data
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\data\
+++ApiResources
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\data\apiresources\
+++ApiResource.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\data\apiresources\apiresource.cs
+++ApiResourceClaim.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\data\apiresources\apiresourceclaim.cs
+++ApiResourceScope.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\data\apiresources\apiresourcescope.cs
+++ApiResourceSecret.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\data\apiresources\apiresourcesecret.cs
+++ApiScopes
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\data\apiscopes\
+++ApiScope.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\data\apiscopes\apiscope.cs
+++Clients
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\data\clients\
+++Client.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\data\clients\client.cs
+++ClientApiScope.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\data\clients\clientapiscope.cs
+++ClientIdentityScope.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\data\clients\clientidentityscope.cs
+++ClientRedirectUri.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\data\clients\clientredirecturi.cs
+++ClientSecret.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\data\clients\clientsecret.cs
+++DbContexts
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\data\dbcontexts\
+++ConfigurationDbContext.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\data\dbcontexts\configurationdbcontext.cs
+++IdentityResources
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\data\identityresources\
+++IdentityResource.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\data\identityresources\identityresource.cs
+++IdentityResourceClaim.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\data\identityresources\identityresourceclaim.cs
+++Claim.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\data\claim.cs
+++Secret.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\data\secret.cs
+++ExtensionMethods
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\extensionmethods\
+++ScopedServicesExtension.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\extensionmethods\scopedservicesextension.cs
+++SingletonServicesExtension.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\extensionmethods\singletonservicesextension.cs
+++TransientServicesExtension.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\extensionmethods\transientservicesextension.cs
+++Handlers
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\handlers\
+++AuthorizationEndpoint
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\handlers\authorizationendpoint\
+++Impl
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\handlers\authorizationendpoint\impl\
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\handlers\tokenendpoint\impl\
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\services\impl\
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\stores\impl\
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\validators\impl\
+++AuthorizationCodeGrantHandlerImpl.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\handlers\authorizationendpoint\impl\authorizationcodegranthandlerimpl.cs
+++IAuthorizationCodeGrantHandler.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\handlers\authorizationendpoint\iauthorizationcodegranthandler.cs
+++TokenEndpoint
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\handlers\tokenendpoint\
+++ClientCredentialsGrantHandlerImpl.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\handlers\tokenendpoint\impl\clientcredentialsgranthandlerimpl.cs
+++InvalidGrantHandlerImpl.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\handlers\tokenendpoint\impl\invalidgranthandlerimpl.cs
+++IClientCredentialsGrantHandler.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\handlers\tokenendpoint\iclientcredentialsgranthandler.cs
+++IInvalidGrantHandler.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\handlers\tokenendpoint\iinvalidgranthandler.cs
+++Migrations
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\migrations\
+++Models
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\models\
+++Errors
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\models\errors\
+++InvalidClient.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\models\errors\invalidclient.cs
+++InvalidGrant.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\models\errors\invalidgrant.cs
+++InvalidRequest.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\models\errors\invalidrequest.cs
+++InvalidScope.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\models\errors\invalidscope.cs
+++ResultBase.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\models\errors\resultbase.cs
+++UnauthorizedClient.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\models\errors\unauthorizedclient.cs
+++UnsupportedGrantType.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\models\errors\unsupportedgranttype.cs
+++UnsupportedResponseType.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\models\errors\unsupportedresponsetype.cs
+++AuthorizationRequest.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\models\authorizationrequest.cs
+++CodeChallengeMethods.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\models\codechallengemethods.cs
+++Discovery.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\models\discovery.cs
+++GrantTypes.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\models\granttypes.cs
+++Request.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\models\request.cs
+++ResponseTypes.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\models\responsetypes.cs
+++TokenRequest.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\models\tokenrequest.cs
+++TokenResponse.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\models\tokenresponse.cs
+++TokenTypes.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\models\tokentypes.cs
+++Services
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\services\
+++GenerateAccessTokenServiceImpl.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\services\impl\generateaccesstokenserviceimpl.cs
+++IGenerateAccessTokenService.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\services\igenerateaccesstokenservice.cs
+++Stores
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\stores\
+++ApiResourcesStoreImpl.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\stores\impl\apiresourcesstoreimpl.cs
+++ClientStoreImpl.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\stores\impl\clientstoreimpl.cs
+++IdentityResourcesStoreImpl.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\stores\impl\identityresourcesstoreimpl.cs
+++ScopesStoreImpl.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\stores\impl\scopesstoreimpl.cs
+++IApiResourcesStore.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\stores\iapiresourcesstore.cs
+++IClientStore.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\stores\iclientstore.cs
+++IIdentityResourcesStore.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\stores\iidentityresourcesstore.cs
+++IScopesStore.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\stores\iscopesstore.cs
+++Validators
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\validators\
+++AuthorizationCodeGrantValidator.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\validators\impl\authorizationcodegrantvalidator.cs
+++ClientCredentialsGrantValidator.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\validators\impl\clientcredentialsgrantvalidator.cs
+++ValidationAttributes
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\validators\validationattributes\
+++NotEmptyListAttribute.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\validators\validationattributes\notemptylistattribute.cs
+++IGrantValidator.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\validators\igrantvalidator.cs
+++Views
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\views\
+++Authorization
+++SignIn.cshtml
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\views\account\signin.cshtml
+++appsettings.json
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\appsettings.json
+++Program.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\program.cs
+++rsa.private
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\rsa.private
+++rsa.public
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\rsa.public
+++No service dependencies discovered
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:>622
+++Analyzers
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:analyzers
+++Frameworks
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:frameworks
+++Packages
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:packages
+++launchSettings.json
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\properties\launchsettings.json
+++20220402065237_Init.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\migrations\20220402065237_init.cs
+++ConfigurationDbContextModelSnapshot.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\migrations\configurationdbcontextmodelsnapshot.cs
+++appsettings.Development.json
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:c:\users\windows\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.3\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore (6.0.3)
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:>640
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.3)
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:>641
+++Microsoft.EntityFrameworkCore.Tools (6.0.3)
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:>644
+++Newtonsoft.Json (13.0.1)
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:>642
+++NSec.Cryptography (20.2.0)
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:>643
+++20220402065237_Init.Designer.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\migrations\20220402065237_init.designer.cs
+++Account
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\views\account\
+++AccountController.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\controllers\accountcontroller.cs
+++SignInModel.cs
+++SignIn.cs
+i:{a6f9c237-d5d3-4ec7-8e48-05f2232e76d0}:f:\asp net core - projects for cv\oauthoidc\oauthoidc\models\signin.cs

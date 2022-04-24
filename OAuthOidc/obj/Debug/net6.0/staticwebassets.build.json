@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "RJT14HNNvvb5wElv7jDm8C9vj0Wste+V3XNKxupSCz8=",
+  "Source": "OAuthOidc",
+  "BasePath": "_content/OAuthOidc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OAuthOidc\\wwwroot",
+      "Source": "OAuthOidc",
+      "ContentRoot": "F:\\ASP NET Core - Projects for CV\\OAuthOidc\\OAuthOidc\\wwwroot\\",
+      "BasePath": "_content/OAuthOidc",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\ASP NET Core - Projects for CV\\OAuthOidc\\OAuthOidc\\wwwroot\\css\\style.css",
+      "SourceId": "OAuthOidc",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\ASP NET Core - Projects for CV\\OAuthOidc\\OAuthOidc\\wwwroot\\",
+      "BasePath": "_content/OAuthOidc",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "F:\\ASP NET Core - Projects for CV\\OAuthOidc\\OAuthOidc\\wwwroot\\js\\script.js",
+      "SourceId": "OAuthOidc",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\ASP NET Core - Projects for CV\\OAuthOidc\\OAuthOidc\\wwwroot\\",
+      "BasePath": "_content/OAuthOidc",
+      "RelativePath": "js/script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\script.js"
+    }
+  ]
+}

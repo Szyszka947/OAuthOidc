@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3FO+9QdJuZZPUIZrcEBLczXSeFDh/tTi0HPofH5RUmc=",
+  "Source": "OAuthOidc",
+  "BasePath": "_content/OAuthOidc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
